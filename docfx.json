@@ -1,0 +1,16 @@
+{
+  "metadata": [
+    // Filter...
+    {
+      "src": [
+        {
+          "files": [ "**/*.csproj" ],
+          "exclude": [ "**/bin/**", "**/obj/**" ],
+          "src": "./Localization/"
+        }
+      ],
+      "dest": "./_DocFX/Localization/",
+      "shouldSkipMarkup": false
+    }
+  ]
+}

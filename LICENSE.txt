@@ -1,0 +1,74 @@
+Sidub Platform - Localization
+Copyright (C) 2024 Sidub Solutions 
+All rights reserved.
+
+The localization package is part of the Sidub Platform. The terms of license
+set forth are shared among all components of the Sidub Platform.
+
+This software is dual-licensed, offering users the choice between the Affero
+General Public License (AGPL) version 3 for open-source use, and a proprietary
+license for commercial use.
+
+OPEN SOURCE LICENSE:
+
+The open-source version of Sidub Platform is licensed under the Affero General
+Public License (AGPL) version 3. You may use, distribute, and modify the
+software under the terms of the AGPL version 3. The full text of the AGPL
+version 3 is not included in this package but is available at:
+https://www.gnu.org/licenses/agpl-3.0.html
+
+By utilizing the Sidub Platform under the AGPL, you agree to comply with all
+the terms and conditions of the AGPL version 3. If you do not accept these
+terms, you are not permitted to use, modify, or distribute the software under
+this license.
+
+COMMERCIAL LICENSE:
+
+For commercial use, the Sidub Platform is available under a proprietary license
+that does not include warranties, support, or indemnification for damages.
+However, support plans and professional services are available for purchase
+separately. The proprietary license is offered on a subscription basis which
+includes ongoing updates to the software.
+
+For inquiries about obtaining a proprietary license for the Sidub Platform,
+please visit https://sidub.ca/licensing or contact licensing@sidub.net.
+
+CONTRIBUTOR LICENSE AGREEMENT (CLA):
+
+Contributions to the Sidub Platform by third parties are welcome. However,
+before any contribution can be incorporated into the official project,
+contributors are required to sign a Contributor License Agreement (CLA),
+granting Sidub Solutions the rights to use, modify, and distribute their
+contributions under both the AGPL and the proprietary licenses.
+
+Signed CLAs must be submitted via: https://sidub.ca/contribution
+
+GOVERNING LAW AND JURISDICTION:
+
+This software and its licensing are governed by the laws of Ontario, Canada.
+Any disputes related to the use or distribution of this software will be
+resolved in the courts of Ontario, Canada, and you consent to the jurisdiction
+of and venue in such courts.
+
+LIMITATION OF LIABILITY:
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL SIDUB SOLUTIONS, ITS
+AUTHORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+WARRANTY DISCLAIMER:
+
+THE SIDUB PLATFORM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED. SIDUB SOLUTIONS OFFERS NO WARRANTIES, INCLUDING BUT NOT LIMITED TO
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT.
+
+ENTIRE AGREEMENT:
+
+This LICENSE.txt, along with any other agreements or terms provided with the
+software, constitutes the entire agreement between you and Sidub Solutions
+regarding the use of the Sidub Platform. It supersedes all prior or
+contemporaneous negotiations, discussions, or agreements between you and Sidub
+Solutions about the software.

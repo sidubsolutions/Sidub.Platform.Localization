@@ -1,0 +1,169 @@
+# CI on main branch...
+trigger:
+- main
+
+# Ubuntu pool...
+pool:
+  vmImage: windows-2022
+
+variables:
+- group: sidub-solutions
+- name: PackageDescription
+  value: "Localization framework library for Sidub platform."
+- name: BuildConfiguration
+  ${{ if eq(variables['Build.SourceBranch'], 'refs/heads/main') }}:
+    value: release
+  ${{ if ne(variables['Build.SourceBranch'], 'refs/heads/main') }}:
+    value: debug
+- name: SolutionDirectory
+  value: $(Build.SourcesDirectory)
+- name: SolutionFilePath
+  value: $(SolutionDirectory)\Localization.sln
+- name: ProjectDirectory
+  value: $(SolutionDirectory)\Localization
+- name: ProjectFilePath
+  value: $(ProjectDirectory)\Localization.csproj
+- name: TestDirectory
+  value: $(SolutionDirectory)\Localization.Test
+- name: TestFilePath
+  value: $(TestDirectory)\Localization.Test.csproj
+- name: AllowedOutputExtensionsInPackageBuildOutputFolderValue
+  value: "$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb"
+
+
+steps:
+
+# Copy source files to staging directory
+- task: CopyFiles@2
+  displayName: 'Copy Source Files to Staging'
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)'
+    Contents: |
+      **
+      !**/.git/**
+    TargetFolder: '$(Build.ArtifactStagingDirectory)/Source'
+    CleanTargetFolder: true
+    OverWrite: true
+
+- task: Cache@2
+  displayName: Check / download cache (GitVersion)
+  inputs:
+    key: 'gitversion-cache'
+    path: '$(SolutionDirectory)\.git\gitversion_cache'
+
+# Add GitVersion...
+- task: gitversion/setup@0
+  displayName: Install GitVersion
+  inputs:
+    versionSpec: '5.x'
+
+# Execute GitVersion...
+- task: gitversion/execute@0
+  displayName: Calculate GitVersion
+  inputs:
+    useConfigFile: true
+    configFilePath: 'GitVersion.yml'
+
+# Add the SourceLink package...
+- task: DotNetCoreCLI@2
+  displayName: Install SourceLink
+  inputs:
+    command: 'custom'
+    projects: '$(ProjectFilePath)'
+    custom: 'add'
+    arguments: 'package Microsoft.SourceLink.AzureRepos.Git --no-restore'
+
+# Restore NuGet packages...
+- task: DotNetCoreCLI@2
+  displayName: Restore
+  inputs:
+    command: 'restore'
+    projects: '$(SolutionFilePath)'
+    feedsToUse: 'select'
+    vstsFeed: 'b0125c77-c067-4397-ab78-7a5ef75bdcc9/aab894a5-4591-40be-b106-fd6b2dbff2e8'
+
+# Build solution...
+- task: DotNetCoreCLI@2
+  displayName: Build
+  inputs:
+    command: build
+    projects: $(SolutionFilePath)
+    arguments: '--configuration $(BuildConfiguration) --no-restore /p:Version=$(GitVersion.NuGetVersionV2) /p:InformationalVersion=$(GitVersion.InformationalVersion) /p:ContinuousIntegrationBuild=true /p:PublishRepositoryUrl=true /p:EmbedUntrackedSources=true'
+
+# Build symbols and copy to staging...
+- task: PublishSymbols@2
+  displayName: Build symbols
+  inputs:
+    SearchPattern: '$(ProjectDirectory)/**/*.pdb'
+    SymbolServerType: 'TeamServices'
+    TreatNotIndexedAsWarning: true
+
+#Test solution...
+- task: DotNetCoreCLI@2
+  displayName: Test
+  inputs:
+    command: 'test'
+    projects: '$(TestFilePath)'
+    arguments: '--configuration $(BuildConfiguration) --collect "Code coverage" --no-restore --no-build'
+
+# Build package and copy to staging...
+- task: DotNetCoreCLI@2
+  displayName: Pack
+  env:
+    NuGetVersion: '$(GitVersion.NuGetVersionV2)'
+  inputs:
+    command: 'pack'
+    configuration: ''
+    packagesToPack: '$(ProjectFilePath)'
+    packDirectory: '$(Build.ArtifactStagingDirectory)/Package'
+    nobuild: true
+    versioningScheme: 'byEnvVar'
+    versionEnvVar: 'NuGetVersion'
+    buildProperties: 'Configuration=$(BuildConfiguration),Authors="$(company-name)",Description="$(PackageDescription)",Copyright="$(company-copyright)",RepositoryType="git",PackageProjectUrl="$(company-url)",RepositoryUrl="$(Build.Repository.Uri)",RepositoryCommit="$(Build.SourceVersion)",RepositoryBranch="$(Build.SourceBranchName)"'
+
+## Add the DocFX package...
+#- task: DotNetCoreCLI@2
+#  displayName: Install DocFX
+#  inputs:
+#    command: 'custom'
+#    projects: '$(ProjectFilePath)'
+#    custom: 'add'
+#    arguments: 'package DocFX.Console'
+
+## Build DocFX documentation...
+#- task: DocFxTask@0
+#  displayName: Build DocFX
+#  inputs:
+#    solution: 'docfx.json'
+
+## Copy DocFX to staging...
+#- task: CopyFiles@2
+#  displayName: Stage DocFX
+#  inputs:
+#    SourceFolder: '$(Build.SourcesDirectory)/_DocFX/'
+#    Contents: '**'
+#    TargetFolder: '$(Build.ArtifactStagingDirectory)/DocFX/'
+
+# Publish package artifact...
+- task: PublishBuildArtifacts@1
+  displayName: Publish package
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)/Package'
+    ArtifactName: 'Package'
+    publishLocation: 'Container'
+
+# Publish source artifact...
+- task: PublishBuildArtifacts@1
+  displayName: Publish source
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)/Source'
+    ArtifactName: 'Source'
+    publishLocation: 'Container'
+
+## Publish DocFX artifact...
+#- task: PublishBuildArtifacts@1
+#  displayName: Publish DocFX
+#  inputs:
+#    PathtoPublish: '$(Build.ArtifactStagingDirectory)/DocFX'
+#    ArtifactName: 'DocFX'
+#    publishLocation: 'Container'
