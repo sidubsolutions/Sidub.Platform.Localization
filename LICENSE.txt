@@ -3,11 +3,12 @@ Copyright (C) 2024 Sidub Solutions
 All rights reserved.
 
 The localization package is part of the Sidub Platform. The terms of license
-set forth are shared among all components of the Sidub Platform.
+set forth are shared among all components of the Sidub Platform unless stated
+otherwise.
 
 This software is dual-licensed, offering users the choice between the Affero
 General Public License (AGPL) version 3 for open-source use, and a proprietary
-license for commercial use.
+license for commercial or private use.
 
 OPEN SOURCE LICENSE:
 
@@ -22,23 +23,25 @@ the terms and conditions of the AGPL version 3. If you do not accept these
 terms, you are not permitted to use, modify, or distribute the software under
 this license.
 
-COMMERCIAL LICENSE:
+PROPRIETARY LICENSE:
 
-For commercial use, the Sidub Platform is available under a proprietary license
-that does not include warranties, support, or indemnification for damages.
-However, support plans and professional services are available for purchase
-separately. The proprietary license is offered on a subscription basis which
-includes ongoing updates to the software.
+For commercial use or private use, the Sidub Platform is made available under a
+proprietary license. This license does not include warranties, support, or
+indemnification for damages. However, we offer separate support plans and
+professional services that can be purchased as needed. The proprietary license
+is provided on a subscription basis, which includes ongoing updates to the
+software.
 
-For inquiries about obtaining a proprietary license for the Sidub Platform,
-please visit https://sidub.ca/licensing or contact licensing@sidub.net.
+If you have any inquiries about obtaining a proprietary license for the Sidub
+Platform, please visit our licensing page at Sidub Licensing or feel free to
+reach out to us at licensing@sidub.net.
 
 CONTRIBUTOR LICENSE AGREEMENT (CLA):
 
 Contributions to the Sidub Platform by third parties are welcome. However,
 before any contribution can be incorporated into the official project,
 contributors are required to sign a Contributor License Agreement (CLA),
-granting Sidub Solutions the rights to use, modify, and distribute their
+granting Sidub Solutions the rights to use, modify, and distribute
 contributions under both the AGPL and the proprietary licenses.
 
 Signed CLAs must be submitted via: https://sidub.ca/contribution
