@@ -1,77 +1,126 @@
 Sidub Platform - Localization
-Copyright (C) 2024 Sidub Solutions 
+Copyright (C) 2024 Sidub Inc.
 All rights reserved.
 
-The localization package is part of the Sidub Platform. The terms of license
-set forth are shared among all components of the Sidub Platform unless stated
-otherwise.
+1. Introduction
 
-This software is dual-licensed, offering users the choice between the Affero
-General Public License (AGPL) version 3 for open-source use, and a proprietary
-license for commercial or private use.
+This License Agreement ("Agreement") is entered into between Sidub Inc. 
+("Licensor," "we," "our," or "us") and the individual or entity ("Licensee," 
+"you," or "your") that acquires a license to use the Software. By downloading, 
+installing, or using the Software, you agree to comply with the terms of this 
+Agreement.
 
-OPEN SOURCE LICENSE:
+2. Definitions
 
-The open-source version of Sidub Platform is licensed under the Affero General
-Public License (AGPL) version 3. You may use, distribute, and modify the
-software under the terms of the AGPL version 3. The full text of the AGPL
-version 3 is not included in this package but is available at:
+For the purposes of this Agreement:
+
+- "Software" means the proprietary software provided by Sidub Inc., including 
+  any updates, enhancements, or modifications.
+- "AGPLv3" refers to the Affero General Public License version 3.
+- "PSLA" refers to Sidub Inc.'s Proprietary Software License Agreement.
+
+3. Dual Licensing Options
+
+The Software is dual-licensed under:
+
+3.1. Option 1: Open Source License (AGPLv3)
+
+The open-source version of the Software is licensed under the AGPLv3. You may 
+use, modify, and distribute the Software under the terms of the AGPLv3.
+
+The full text of the AGPLv3 license is included in this repository as 
+LICENSE-AGPLV3.txt.
+
+For more information about the AGPLv3, visit: 
 https://www.gnu.org/licenses/agpl-3.0.html
 
-By utilizing the Sidub Platform under the AGPL, you agree to comply with all
-the terms and conditions of the AGPL version 3. If you do not accept these
-terms, you are not permitted to use, modify, or distribute the software under
-this license.
+3.2. Option 2: Proprietary Software License Agreement (PSLA)
 
-PROPRIETARY LICENSE:
+For commercial or personal use, the Software is available under our PSLA. This 
+license provides a non-exclusive, non-transferable right to use the Software 
+under one of the following license types:
 
-For commercial use or private use, the Sidub Platform is made available under a
-proprietary license. This license does not include warranties, support, or
-indemnification for damages. However, we offer separate support plans and
-professional services that can be purchased as needed. The proprietary license
-is provided on a subscription basis, which includes ongoing updates to the
-software.
+- Free License: Provides a non-exclusive, non-transferable, revocable right 
+  to use the Software at no cost for personal or non-commercial purposes. This 
+  license allows access to any version of the Software released prior to the 
+  license expiration date.
+  
+- Perpetual License: Provides a non-exclusive, non-transferable right to use 
+  the Software indefinitely following a one-time payment. This license includes 
+  access to Updates within the same Major Version of the Software.
+  
+- Subscription License: Provides a non-exclusive, non-transferable right to 
+  use the Software for a specified period. This license allows access to any 
+  version of the Software released prior to the subscription’s expiration date, 
+  with continued Updates available upon renewal.
+  
+- Consumption License: Provides a non-exclusive, non-transferable right to 
+  use the Software based on usage metrics. This license allows access to any 
+  version of the Software released prior to the license expiration date.
 
-If you have any inquiries about obtaining a proprietary license for the Sidub
-Platform, please visit our licensing page at Sidub Licensing or feel free to
-reach out to us at licensing@sidub.net.
+The full text of the Proprietary Software License Agreement is included in this 
+repository as LICENSE-PROPRIETARY.txt.
 
-CONTRIBUTOR LICENSE AGREEMENT (CLA):
+For inquiries about obtaining a proprietary license or purchasing support 
+plans, please contact us at:
 
-Contributions to the Sidub Platform by third parties are welcome. However,
-before any contribution can be incorporated into the official project,
-contributors are required to sign a Contributor License Agreement (CLA),
-granting Sidub Solutions the rights to use, modify, and distribute
-contributions under both the AGPL and the proprietary licenses.
+- Email: inquiries@sidub.net  
+- Phone: 1-226-666-2111
 
-Signed CLAs must be submitted via: https://sidub.ca/contribution
+4. Additional Terms
 
-GOVERNING LAW AND JURISDICTION:
+By using the Software, you also agree to our Terms of Service and Privacy 
+Policy, which are included in this repository as terms.txt and privacy.txt, 
+respectively.
 
-This software and its licensing are governed by the laws of Ontario, Canada.
-Any disputes related to the use or distribution of this software will be
-resolved in the courts of Ontario, Canada, and you consent to the jurisdiction
-of and venue in such courts.
+5. Contributor License Agreement (CLA)
 
-LIMITATION OF LIABILITY:
+We welcome contributions from the community. Before contributing, you must sign 
+our Contributor License Agreement (CLA), granting Sidub Inc. the rights to use, 
+modify, and distribute your contributions under both the AGPLv3 and the 
+proprietary licenses.
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL SIDUB SOLUTIONS, ITS
-AUTHORS, OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+See the CONTRIBUTING.txt file included in this repository and visit the
+following link to sign the agreements: https://sidub.ca/contribution.
 
-WARRANTY DISCLAIMER:
+6. Governing Law
 
-THE SIDUB PLATFORM IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-OR IMPLIED. SIDUB SOLUTIONS OFFERS NO WARRANTIES, INCLUDING BUT NOT LIMITED TO
-THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
-NONINFRINGEMENT.
+This Agreement is governed by and construed in accordance with the laws of the 
+Province of Ontario and the federal laws of Canada applicable therein.
 
-ENTIRE AGREEMENT:
+7. Limitation of Liability and Warranty Disclaimer
 
-This LICENSE.txt, along with any other agreements or terms provided with the
-software, constitutes the entire agreement between you and Sidub Solutions
-regarding the use of the Sidub Platform. It supersedes all prior or
-contemporaneous negotiations, discussions, or agreements between you and Sidub
-Solutions about the software.
+To the fullest extent permitted by applicable law:
+
+- The Software is provided "as is" and "as available," without warranties or 
+  conditions of any kind, either express or implied, including but not limited 
+  to implied warranties or conditions of merchantability, fitness for a 
+  particular purpose, and non-infringement.
+
+- Sidub Inc. shall not be liable for any indirect, incidental, special, 
+  consequential, or punitive damages, including but not limited to loss of 
+  profits, revenue, data, or use, incurred by you or any third party, whether 
+  in an action in contract, tort (including negligence), strict liability, or 
+  otherwise, arising from your use of the Software.
+
+8. Contact Information
+
+If you have any questions regarding this Agreement, please contact us at:
+
+- Email: inquiries@sidub.net  
+- Phone: 1-226-666-2111
+
+9. Important Notice
+
+By choosing to use the Software under the AGPLv3 license, you agree to comply 
+with all its terms and conditions. Redistribution is allowed only under the 
+AGPLv3, and the Software cannot be relicensed under dual-license or proprietary 
+models without prior written consent from Sidub Inc.
+
+10. Note on License Types Availability
+
+The availability of license types, including but not limited to the Open Source 
+License, Free License, Perpetual License, Subscription License, and Consumption 
+License, may vary depending on the specific product or version of the Software. 
+Sidub Inc. reserves the right to determine the availability of these licenses 
+for each product.

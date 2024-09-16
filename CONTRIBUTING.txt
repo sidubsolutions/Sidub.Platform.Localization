@@ -1,0 +1,174 @@
+Contributor License Agreement  
+Last Updated: 2024-September-15
+
+1. Introduction
+
+This Contributor License Agreement ("Agreement") is entered into between Sidub 
+Inc. ("Company," "we," "our," or "us") and the individual or entity 
+("Contributor," "you," or "your") who wishes to contribute to our software 
+projects ("Projects"). By submitting any Contributions (as defined below), you 
+agree to the terms of this Agreement.
+
+2. Definitions
+
+- "Contribution" means any original work of authorship, including any 
+  modifications or additions to an existing work, that is intentionally 
+  submitted by you to Sidub Inc. for inclusion in any of the Projects. 
+  "Submitted" means any form of electronic, verbal, or written communication 
+  sent to Sidub Inc. or its representatives, including but not limited to source 
+  code, documentation, or any other materials.
+
+- "Projects" means any open-source or proprietary software projects owned or 
+  managed by Sidub Inc.
+
+- "AGPLv3" refers to the GNU Affero General Public License version 3.
+
+- "PSLA" refers to Sidub Inc.'s Proprietary Software License Agreement.
+
+3. Grant of Rights
+
+3.1. Copyright License  
+You hereby grant to Sidub Inc. a perpetual, worldwide, non-exclusive, 
+royalty-free, irrevocable license under all your intellectual property rights to 
+use, reproduce, modify, prepare derivative works of, publicly display, publicly 
+perform, sublicense, and distribute your Contributions and such derivative 
+works. This license allows Sidub Inc. to release your Contributions under both 
+the AGPLv3 and the PSLA, or any other licenses.
+
+3.2. Patent License  
+You grant to Sidub Inc. a perpetual, worldwide, non-exclusive, royalty-free, 
+irrevocable license under any patent claims licensable by you that are 
+necessarily infringed by your Contributions or by the combination of your 
+Contributions with the Projects, to make, have made, use, offer to sell, sell, 
+import, and otherwise transfer the Contributions and the Projects.
+
+4. Representations and Warranties
+
+You represent and warrant that:
+
+- 4.1. Original Work  
+  Each of your Contributions is an original work and you have the right to grant 
+  the licenses set forth in this Agreement.
+
+- 4.2. Third-Party Content  
+  If your Contribution includes or is based on any third-party code or 
+  materials, you have obtained all necessary permissions or licenses to include 
+  such code or materials and to grant Sidub Inc. the rights granted herein.
+
+- 4.3. No Conflicts  
+  Your Contributions and the licenses granted herein do not conflict with any 
+  other agreement to which you are a party.
+
+- 4.4. Compliance with Laws  
+  Your Contributions do not violate any applicable laws or regulations.
+
+- 4.5. No Confidential Information  
+  Your Contributions do not contain any confidential or proprietary information 
+  of any third party.
+
+5. Moral Rights
+
+To the fullest extent permitted under applicable law, you waive and agree not to 
+assert any moral rights you may have in your Contributions against Sidub Inc. or 
+its sublicensees.
+
+6. No Obligation to Use
+
+You understand that the decision to include your Contributions in any Project is 
+entirely at the discretion of Sidub Inc., and this Agreement does not obligate 
+Sidub Inc. to use or distribute your Contributions.
+
+7. Acknowledgment of Licensing Model
+
+You acknowledge that Sidub Inc. operates under a dual licensing model, offering 
+the Projects under both the AGPLv3 and the PSLA. By agreeing to this Agreement, 
+you permit Sidub Inc. to release your Contributions under either or both of 
+these licenses.
+
+8. Disclaimer of Warranties
+
+To the fullest extent permitted by applicable law, your Contributions are 
+provided on an "AS IS" basis, without any warranties or conditions, express or 
+implied, including but not limited to warranties of merchantability, fitness for 
+a particular purpose, and non-infringement.
+
+9. Limitation of Liability
+
+To the maximum extent permitted by applicable law, in no event shall you be 
+liable to Sidub Inc. or any other party for any indirect, incidental, special, 
+consequential, or punitive damages arising out of this Agreement or the use of 
+your Contributions.
+
+10. Indemnification
+
+You agree to indemnify and hold harmless Sidub Inc., its affiliates, officers, 
+directors, employees, and agents from any claims, liabilities, damages, losses, 
+costs, and expenses (including reasonable legal fees) arising out of your breach 
+of any representation or warranty in this Agreement.
+
+11. Termination
+
+This Agreement shall continue until terminated. Either party may terminate this 
+Agreement upon 30 days' written notice to the other party. Upon termination, the 
+licenses granted to Sidub Inc. and any sublicenses previously granted by Sidub 
+Inc. shall survive.
+
+12. Governing Law
+
+This Agreement is governed by and construed in accordance with the laws of the 
+Province of Ontario and the federal laws of Canada applicable therein, without 
+regard to conflict of law principles.
+
+13. Severability
+
+If any provision of this Agreement is held invalid or unenforceable, such 
+provision shall be enforced to the maximum extent permissible, and the remaining 
+provisions shall remain in full force and effect.
+
+14. Entire Agreement
+
+This Agreement constitutes the entire agreement between you and Sidub Inc. 
+regarding your Contributions and supersedes all prior agreements or 
+understandings, whether oral or written.
+
+15. Amendment
+
+Any amendment or modification to this Agreement must be made in writing and 
+signed by both parties.
+
+16. Assignment
+
+You may not assign or transfer your rights or obligations under this Agreement 
+without the prior written consent of Sidub Inc. Any attempted assignment without 
+such consent will be null and void.
+
+17. Notices
+
+All notices under this Agreement shall be in writing and deemed duly given when 
+delivered personally, sent by email with confirmation, or sent by recognized 
+courier service to the following:
+
+- Email: inquiries@sidub.net  
+- Phone: 1-226-666-2111
+
+18. No Waiver
+
+Failure by Sidub Inc. to enforce any right or provision of this Agreement shall 
+not constitute a waiver of such right or provision.
+
+19. Governing Language
+
+This Agreement is written in English. Any translations are provided for 
+convenience, and the English version shall prevail in case of discrepancies.
+
+20. Acknowledgment
+
+By submitting a Contribution to Sidub Inc., you acknowledge that you have read, 
+understood, and agree to be bound by this Agreement.
+
+21. Contact Information
+
+If you have any questions regarding this Agreement, please contact us at:
+
+- Email: inquiries@sidub.net  
+- Phone: 1-226-666-2111

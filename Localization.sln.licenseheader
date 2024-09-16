@@ -1,4 +1,5 @@
-﻿/*
+﻿extensions: .cs
+/*
  * Sidub Platform - Localization
  * Copyright (C) 2024 Sidub Inc.
  * All rights reserved.
@@ -21,12 +22,3 @@
  * See the LICENSE.txt file for detailed license terms and conditions or
  * visit https://sidub.ca/licensing for a copy of the license texts.
  */
-
-using Sidub.Platform.Localization;
-
-namespace Localization.Test.Resources
-{
-    internal class GlobalTestResource : ILocalizationResource
-    {
-    }
-}

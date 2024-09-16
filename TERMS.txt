@@ -1,0 +1,173 @@
+Terms of Service
+Last Updated: 2024-September-15
+
+1. Introduction
+
+Welcome to Sidub Inc. ("Company," "we," "our," or "us"). These Terms of Service 
+("Terms") govern your access to and use of our website, software, and services 
+(collectively, the "Services"). By accessing or using our Services, you agree to 
+be bound by these Terms, our Privacy Policy (https://sidub.ca/privacy), and any 
+additional terms applicable to specific Services. If you do not agree to these 
+Terms, please do not use our Services.
+
+2. Eligibility
+
+By using our Services, you represent and warrant that you are at least 18 years 
+of age (or the age of majority in your jurisdiction) and have the legal capacity 
+to enter into these Terms.
+
+3. Account Registration
+
+To access certain features, you may need to register for an account. You agree 
+to:
+
+- Provide accurate and complete information during registration.
+- Keep your account information up to date.
+- Maintain the confidentiality of your login credentials.
+- Notify us immediately of any unauthorized use of your account.
+
+4. Use of Services
+
+You agree to use the Services only for lawful purposes and in compliance with 
+all applicable laws and regulations. You agree not to:
+
+- Engage in any activity that disrupts or interferes with the Services.
+- Use any automated means to access the Services without our prior written 
+permission, except for legitimate uses like automated workflows in compliance 
+with our guidelines.
+- Upload or transmit any content that is illegal, harmful, or infringes on the 
+rights of others.
+
+5. Intellectual Property
+
+All content and materials available on the Services, including but not limited 
+to text, graphics, logos, and software, are the property of Sidub Inc. or its 
+licensors and are protected by intellectual property laws.
+
+You are granted a limited, non-exclusive, non-transferable license to access and 
+use the Services for personal or internal business purposes in accordance with 
+these Terms and the applicable license agreements.
+
+6. User Content
+
+a. License Grant
+
+By submitting any content ("User Content") to the Services, you grant Sidub Inc. 
+a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, 
+display, and distribute such content as necessary to provide the Services.
+
+b. Responsibility
+
+You are solely responsible for your User Content. You represent and warrant 
+that you have all necessary rights to grant the above license and that your 
+content does not violate any laws or infringe any third-party rights.
+
+7. Privacy Policy
+
+Your use of the Services is subject to our Privacy Policy (https://sidub.ca/privacy), 
+which is incorporated into these Terms by reference.
+
+8. Termination
+
+We reserve the right to suspend or terminate your access to the Services at our 
+sole discretion, without notice, for conduct that we believe violates these 
+Terms or is harmful to other users, us, or third parties.
+
+9. Disclaimers
+
+To the fullest extent permitted by applicable law, the Services are provided "as 
+is" and "as available" without warranties or conditions of any kind, either 
+express or implied. We do not warrant that:
+
+- The Services will meet your requirements.
+- The Services will be uninterrupted, timely, secure, or error-free.
+- Any defects will be corrected.
+
+10. Limitation of Liability
+
+To the maximum extent permitted by applicable law, Sidub Inc. and its affiliates 
+shall not be liable for any indirect, incidental, special, consequential, or 
+punitive damages, including loss of profits, data, or use, arising out of or in 
+connection with your use of the Services.
+
+In no event shall the total liability of Sidub Inc. exceed the amount of fifty 
+Canadian dollars (CAD $50.00), regardless of the cause of action.
+
+11. Indemnification
+
+You agree to indemnify and hold harmless Sidub Inc., its affiliates, officers, 
+directors, employees, and agents from any claims, liabilities, damages, losses, 
+and expenses, including reasonable legal fees, arising out of or in any way 
+connected with your access to or use of the Services or your violation of these 
+Terms.
+
+12. Force Majeure
+
+Sidub Inc. shall not be liable for any failure or delay in performance due to 
+circumstances beyond its reasonable control, including but not limited to acts 
+of God, war, terrorism, civil unrest, governmental actions, labor disputes, or 
+natural disasters.
+
+13. Governing Law and Jurisdiction
+
+These Terms are governed by the laws of the Province of Ontario and the federal 
+laws of Canada applicable therein, without regard to conflict of law principles.
+
+You agree to submit to the exclusive jurisdiction of the courts located in the 
+Province of Ontario for the resolution of any disputes arising out of or 
+relating to these Terms or the Services.
+
+14. Changes to Terms
+
+We may modify these Terms from time to time. We will notify you of significant 
+changes by posting the new Terms on our website and updating the "Last Updated" 
+date. Your continued use of the Services after any such changes constitutes your 
+acceptance of the new Terms.
+
+15. Notices
+
+All notices under these Terms shall be in writing and shall be deemed duly given 
+when delivered personally, sent by email with confirmation, or sent by 
+recognized courier service to the following:
+
+- Email: inquiries@sidub.net
+- Phone: 1-226-666-2111
+
+16. Entire Agreement
+
+These Terms, along with the Privacy Policy and any additional terms you agree 
+to, constitute the entire agreement between you and Sidub Inc. regarding the 
+Services and supersede all prior agreements.
+
+In the event of a conflict between these Terms and any license agreement (e.g., 
+the Proprietary Software License Agreement), the terms of the license agreement 
+shall prevail concerning the specific software or service.
+
+17. Severability
+
+If any provision of these Terms is held invalid or unenforceable, such provision 
+shall be enforced to the maximum extent permissible, and the remaining 
+provisions shall remain in full force and effect.
+
+18. No Waiver
+
+Failure by Sidub Inc. to enforce any right or provision of these Terms shall not 
+constitute a waiver of such right or provision.
+
+19. Assignment
+
+You may not assign or transfer your rights or obligations under these Terms 
+without our prior written consent. We may assign our rights and obligations 
+without restriction.
+
+20. Governing Language
+
+These Terms are written in English. Any translations are provided for 
+convenience, and the English version shall prevail in case of discrepancies.
+
+21. Contact Information
+
+If you have any questions about these Terms, please contact us at:
+
+- Email: inquiries@sidub.net
+- Phone: 1-226-666-2111

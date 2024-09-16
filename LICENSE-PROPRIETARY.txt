@@ -1,0 +1,218 @@
+Proprietary Software License Agreement
+Last Updated: 2024-September-15
+
+1. Introduction
+
+This Proprietary Software License Agreement ("Agreement") is entered into 
+between Sidub Inc. ("Licensor," "we," "our," or "us") and the individual or 
+entity ("Licensee," "you," or "your") that acquires a license to use the 
+Software. By downloading, installing, or using the Software, you agree to comply 
+with the terms of this Agreement.
+
+2. Definitions
+
+For the purposes of this Agreement:
+
+- "Software" means the proprietary software provided by Sidub Inc., including 
+any updates, enhancements, or modifications.
+- "Major Version" refers to a release of the Software identified by a change 
+in the number to the left of the decimal point (e.g., from version 1.x to 2.x).
+- "Updates" means any patches, fixes, or minor enhancements to the Software 
+within the same Major Version.
+- "License Types" include Free License, Perpetual License, Subscription 
+License, and Consumption License as defined in Section 3.
+
+3. License Types and Scope
+
+Sidub Inc. offers the Software under the following License Types:
+
+- Free License: Provides a non-exclusive, non-transferable, revocable right 
+to use the Software at no cost for personal or non-commercial purposes. This 
+license allows access to any version of the Software released prior to the 
+license expiration date.
+- Perpetual License: Provides a non-exclusive, non-transferable right to use 
+the Software indefinitely following a one-time payment. This license includes 
+access to Updates within the same Major Version of the Software.
+- Subscription License: Provides a non-exclusive, non-transferable right to 
+use the Software for a specified period. This license allows access to any 
+version of the Software released prior to the subscription’s expiration date, 
+with continued Updates available upon renewal.
+- Consumption License: Provides a non-exclusive, non-transferable right to 
+use the Software based on usage metrics. This license allows access to any 
+version of the Software released prior to the license expiration date.
+
+The specific License Type applicable to you will be determined at the time of 
+purchase or download and is subject to the conditions outlined in this 
+Agreement.
+
+4. License Restrictions
+
+You agree to refrain from:
+
+- Modifying, adapting, translating, or creating derivative works based on the 
+Software.
+- Reverse engineering, decompiling, disassembling, or otherwise attempting to 
+derive the source code of the Software, except where such actions are 
+expressly permitted by applicable law.
+- Renting, leasing, lending, selling, distributing, or transferring the 
+Software or any portion thereof to any third party.
+- Using the Software for any unlawful purpose or in violation of any applicable 
+laws and regulations.
+
+5. Ownership and Confidentiality
+
+The Software is licensed, not sold. Sidub Inc. and its licensors retain all 
+rights, title, and interest in and to the Software, including any Updates and 
+enhancements. You acknowledge that the Software contains proprietary and 
+confidential information protected by intellectual property laws.
+
+You agree to maintain the confidentiality of the Software and any related 
+documentation and materials and not to disclose them to any third party without 
+the prior written consent of Sidub Inc.
+
+6. Updates and Support
+
+Sidub Inc. may at its discretion provide Updates or enhancements to the 
+Software. Access to these Updates will depend on your License Type:
+
+- Perpetual License: Includes Updates within the same Major Version only.
+- Subscription License: Allows access to any version released before the 
+subscription's expiration date with continued Updates available upon renewal.
+- Consumption License: Grants access to any version of the Software during 
+the active usage period.
+
+Support services for the Software are provided separately and are not included 
+unless expressly agreed upon.
+
+7. Fees and Payment
+
+For Perpetual, Subscription, and Consumption Licenses, you agree to pay all 
+applicable fees as specified at the time of purchase. Payment terms, including 
+those for subscription renewals and consumption-based usage, will be detailed 
+in the relevant purchase order or invoice. Failure to pay these fees may result 
+in the termination of your license.
+
+8. Assignment
+
+You may not assign, transfer, or sublicense this Agreement or any rights granted 
+herein without the prior written consent of Sidub Inc. Any attempted assignment 
+or transfer without such consent will be null and void.
+
+9. Export Control Compliance
+
+You agree to comply with all applicable export laws and regulations of Canada 
+and any other relevant jurisdictions to ensure that neither the Software nor any 
+direct product thereof is exported or re-exported directly or indirectly in 
+violation of such laws.
+
+10. Term and Termination
+
+This Agreement is effective from the date you first download, install, or use 
+the Software and will remain in effect until terminated. Sidub Inc. may 
+terminate this Agreement immediately if you breach any of its terms. Upon 
+termination, you must discontinue use of the Software and destroy all copies in 
+your possession or control.
+
+11. Disclaimer of Warranties
+
+To the fullest extent permitted by applicable law, the Software is provided "as 
+is" and "as available" without any warranties or conditions of any kind, either 
+express or implied, including but not limited to implied warranties or 
+conditions of merchantability, fitness for a particular purpose, and non-
+infringement. Sidub Inc. does not warrant that the Software will meet your 
+requirements, operate without interruption, or be error-free.
+
+12. Limitation of Liability
+
+To the maximum extent permitted by applicable law, in no event shall Sidub Inc. 
+or its affiliates, licensors, or suppliers be liable for any indirect, 
+incidental, special, consequential, or punitive damages, including but not 
+limited to loss of profits, revenue, data, or use, incurred by you or any third 
+party, whether in an action in contract, tort (including negligence), strict 
+liability, or otherwise, arising from your use of the Software.
+
+In no event shall Sidub Inc.'s total liability to you for all damages exceed the 
+amount of fifty Canadian dollars (CAD $50.00). Some jurisdictions do not allow 
+the exclusion or limitation of liability for consequential or incidental 
+damages, so the above limitation may not apply to you.
+
+13. Indemnification
+
+You agree to indemnify, defend, and hold harmless Sidub Inc., its affiliates, 
+officers, directors, employees, and agents from and against any and all claims, 
+liabilities, damages, judgments, losses, costs, expenses, or fees (including 
+reasonable legal fees) arising out of or relating to your use or misuse of the 
+Software or any breach of this Agreement.
+
+14. Force Majeure
+
+Sidub Inc. shall not be liable for any failure to perform its obligations under 
+this Agreement due to circumstances beyond its reasonable control, including but 
+not limited to acts of God, war, terrorism, civil unrest, governmental actions, 
+labor disputes, or natural disasters.
+
+15. Governing Law and Dispute Resolution
+
+This Agreement shall be governed by and construed in accordance with the laws of 
+the Province of Ontario and the federal laws of Canada applicable therein, 
+without regard to its conflict of law principles.
+
+Any disputes arising out of or relating to this Agreement shall be resolved 
+exclusively in the courts located in the Province of Ontario, Canada. You 
+irrevocably consent to the jurisdiction of such courts and waive any objections 
+to the venue.
+
+16. Notices
+
+All notices or communications required or permitted under this Agreement shall 
+be in writing and shall be deemed duly given when delivered personally, sent by 
+email with confirmation of receipt, or sent by recognized overnight courier 
+service to the following:
+
+- Email: inquiries@sidub.net
+- Phone: 1-226-666-2111
+
+17. Severability
+
+If any provision of this Agreement is held to be invalid or unenforceable by a 
+court of competent jurisdiction, such provision shall be enforced to the maximum 
+extent permissible, and the remaining provisions shall remain in full force and 
+effect.
+
+18. Entire Agreement
+
+This Agreement, together with the Terms of Service (https://sidub.ca/terms) and 
+Privacy Policy (https://sidub.ca/privacy) referenced herein, constitutes the 
+entire agreement between you and Sidub Inc. regarding the Software and 
+supersedes all prior or contemporaneous communications, agreements, or 
+understandings, whether oral or written.
+
+In the event of a conflict between this Agreement and the Terms of Service, the 
+terms of this Agreement shall prevail with respect to the Software.
+
+19. No Waiver
+
+The failure of Sidub Inc. to enforce any right or provision of this Agreement 
+shall not constitute a waiver of such right or provision.
+
+20. Reservation of Rights
+
+All rights not expressly granted herein are reserved by Sidub Inc.
+
+21. Governing Language
+
+This Agreement is written in English, and any translations are provided for 
+convenience only. In the event of any inconsistency between the English version 
+and any translation, the English version shall govern.
+
+22. Acknowledgment
+
+By downloading, installing, or using the Software, you acknowledge that you have 
+read, understood, and agree to be bound by this Agreement.
+
+23. Contact Information
+
+If you have any questions regarding this Agreement, please contact us at:
+
+- Email: inquiries@sidub.net
+- Phone: 1-226-666-2111

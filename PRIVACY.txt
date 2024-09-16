@@ -1,0 +1,110 @@
+Privacy Policy
+Last Updated: 2024-September-15
+
+1. Introduction
+
+Sidub Inc. ("Company," "we," "our," or "us") is committed to protecting your 
+privacy. This Privacy Policy explains how we collect, use, disclose, and 
+safeguard your personal information when you visit our website (https://sidub.ca) 
+and use our services (collectively the "Services"). By using our Services, 
+you agree to the terms of this Privacy Policy.
+
+2. Information We Collect
+
+We may collect personal information from you in various ways, including:
+
+- Account Registration: When you register for an account, we collect information 
+such as your name, address, email, phone number, and marketing preferences.
+- License Purchases: When you purchase a license, we collect payment information 
+and other details necessary to process your transaction.
+- Software Usage: Our Software may transmit data to our systems for licensing, 
+telemetry, troubleshooting, and support purposes.
+- Website Interaction: We may collect information through cookies and similar 
+technologies when you interact with our website.
+
+3. Use of Your Information
+
+We use your personal information for the following purposes:
+
+- Provision of Services: To provide, maintain, and improve our Services, including 
+account management and license purchases.
+- Communication: To communicate with you about your account, transactions, 
+updates, and promotional materials (with your consent).
+- Analytics and Improvements: To analyze usage patterns and improve our Services.
+- Compliance and Enforcement: To enforce our agreements, comply with legal 
+obligations, and protect our rights and interests.
+
+4. Disclosure of Your Information
+
+We do not share your personal information with third parties except as follows:
+
+- Service Providers: With trusted third-party service providers who assist us in 
+operating our Services (e.g., payment processors, hosting providers).
+- Legal Compliance: When required by law, legal process, or governmental request.
+- Protection of Rights: To protect and defend the rights or property of Sidub Inc., 
+users, or the public.
+- Business Transfers: In connection with a merger, sale, or transfer of assets.
+
+5. Data Storage and Security
+
+We implement reasonable security measures to protect your personal information 
+from unauthorized access, alteration, disclosure, or destruction. However, no 
+method of transmission over the internet or electronic storage is completely 
+secure.
+
+6. Your Rights
+
+Depending on your jurisdiction, you may have the following rights regarding your 
+personal information:
+
+- Access: Request access to your personal information.
+- Correction: Request correction of inaccurate or incomplete information.
+- Deletion: Request deletion of your personal information, subject to certain 
+exceptions.
+- Withdrawal of Consent: Withdraw consent where processing is based on consent.
+
+To exercise your rights, please contact us at inquiries@sidub.net or call 
+1-226-666-2111.
+
+7. Cookies and Tracking Technologies
+
+We use cookies and similar technologies to enhance your experience. You can 
+manage your cookie preferences through your browser settings. For more details, 
+please refer to our Cookies Policy at https://sidub.ca/cookies.
+
+8. International Data Transfers
+
+Your personal information may be transferred to and processed in countries 
+other than your country of residence, including Canada and the United States. 
+We take appropriate measures to ensure that your information is protected in 
+accordance with this Privacy Policy and applicable laws.
+
+9. Children's Privacy
+
+Our Services are not intended for individuals under the age of 16. We do not 
+knowingly collect personal information from children under 16. If you believe 
+we have collected such information, please contact us to have it removed.
+
+10. Retention of Data
+
+We retain your personal information only for as long as necessary to fulfill 
+the purposes for which it was collected or to comply with legal obligations.
+
+11. Changes to This Privacy Policy
+
+We may update this Privacy Policy periodically. Changes will be effective upon 
+posting the revised policy on our website with an updated "Last Updated" date. 
+Your continued use of the Services signifies your acceptance of the changes.
+
+12. Governing Law
+
+This Privacy Policy is governed by the laws of the Province of Ontario and the 
+federal laws of Canada applicable therein.
+
+13. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data 
+practices, please contact us at:
+
+- Email: inquiries@sidub.net
+- Phone: 1-226-666-2111

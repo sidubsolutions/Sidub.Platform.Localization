@@ -8,11 +8,17 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{377D9300-27A1-420A-944B-355202254A8E}"
 	ProjectSection(SolutionItems) = preProject
 		azure-pipelines.yml = azure-pipelines.yml
+		CONTRIBUTING.txt = CONTRIBUTING.txt
 		docfx.json = docfx.json
 		GitVersion.yml = GitVersion.yml
 		icon.png = icon.png
+		LICENSE-AGPLV3.txt = LICENSE-AGPLV3.txt
+		LICENSE-PROPRIETARY.txt = LICENSE-PROPRIETARY.txt
 		LICENSE.txt = LICENSE.txt
+		Localization.sln.licenseheader = Localization.sln.licenseheader
+		PRIVACY.txt = PRIVACY.txt
 		README.md = README.md
+		TERMS.txt = TERMS.txt
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Localization.Test", "Localization.Test\Localization.Test.csproj", "{76A07702-DEC0-480A-9E22-58CFA8451656}"
